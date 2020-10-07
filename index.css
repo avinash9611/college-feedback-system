@@ -1,0 +1,49 @@
+html{
+	font-family: 'Noto Serif', serif;
+	width: 100%;
+    margin: 0px;
+    padding: 0px;
+    overflow-x: hidden;
+}
+.navbar{
+	background-color: #2c3a68;
+}
+.cool{
+	display: flex;
+	justify-content: center;
+}
+.login-form{
+	border: 2px solid #2c3a68;
+	border-radius: 20px;
+	padding:20px;
+	display: block;
+	margin-top: 100px;
+	width: 100%;
+	box-shadow: 5px 4px 5px #888888;
+}
+.upper-btn{ 
+	color: white;
+	background-color: #2c3a68;
+	text-align: center;
+	border-radius: 20px;
+	font-family: 'Noto Serif', serif;
+	box-shadow: 5px 4px 5px #888888;
+	margin-left: 50px;
+	margin-right: 50px;
+	font-size: 120%;
+	padding-top: 2px;
+}
+.btn-des{
+	color: white;
+	border-radius: 400px;
+	background-color: #2c3a68;
+	padding-top: 2px;
+	padding-right: 10%;
+	padding-left: 10%;
+	margin-right: 20px;
+	margin-left: 110px;
+}
+.btn-des:hover{
+    background-color: #2c3a68;
+    color: white;
+}

@@ -1,0 +1,29 @@
+html{
+	font-family: 'Noto Serif', serif;
+	width: 100%;
+    margin: 0px;
+    padding-left: 0px;
+    overflow-x: hidden;
+}
+.navbar{
+	background-color: #2c3a68;
+}
+.About{
+	border: 2px solid #2c3a68;
+	border-radius: 20px;
+	padding:20px;
+	display: block;
+	margin-top: 100px;
+	background-color: rgba(44, 58, 104,0.85);
+	box-shadow: 5px 4px 5px #888888;
+}
+.dec{
+	text-align: center;
+	font-size: 50px;
+	font-weight: 100px;
+	color: white;
+	font-style: none;
+}
+p{
+	color: white;
+}
